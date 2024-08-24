@@ -8,14 +8,14 @@
 I like to situate myself at the intersection of geometry, power, and data. I find the most interesting problems are those that require a deep understanding of multiple disciplines, and I enjoy having to reconcile mechanical, electrical, and thermal concerns. I also like TypeScriptally goodness.
 
  🔭 I’m currently working on 
- - Dynamically generated 3D printed ceramics with [Blender](https://www.blender.org/) and [Klipper](https://klipper3d.org/)
- - Better selection of sense resistors for stepper drivers including [Pepper_Stepper](https://github.com/willpuckett/pepper_stepper), a controller for 28BYJ-48 for ESPHome and Tasmota, and a forth coming toolhead board for Δ printers
- - A remotely assembled Ferris Half-Swept derivative called [Swoon](https://github.com/willpuckett/Swoon) featuring [Seeed Xiao nRF52840](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html)
+ - Dynamically generated **3D printed ceramics** with [Blender](https://www.blender.org/) and [Klipper](https://klipper3d.org/)
+ - Better selection of sense resistors for stepper drivers including [Pepper_Stepper](https://github.com/willpuckett/pepper_stepper), a **controller for 28BYJ-48 for ESPHome** and Tasmota, and a **forth coming toolhead board** for Δ printers
+ - A remotely assembled **Ferris Half-Swept derivative** called [Swoon](https://github.com/willpuckett/Swoon) featuring [Seeed Xiao nRF52840](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html)
 
  🌱 I’m currently learning 
  - **PCB layout/PCBA**
  - **DFx**
- - Always more Geometry Nodes
+ - Always more **Geometry Nodes**
 
  📝 I sporadically write articles on [my blog](https://smote.io), mainly so I remember how I install things.
 
