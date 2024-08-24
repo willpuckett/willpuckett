@@ -46,6 +46,7 @@ I like to situate myself at the intersection of geometry, power, and data. I fin
 <a href="https://deno.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Deno_2021.svg" alt="deno" width="40" height="40"/> </a> 
 <a href="https://deno.com/kv" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU7K9Cq15bKR1rSkHO1YSiv97_XbXVq16y-w&s" alt="denoKV" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://easyeda.com" target="_blank" rel="noreferrer"><img src="https://cdn-1.webcatalog.io/catalog/easyeda/easyeda-icon-filled-256.webp?v=1714774228381" alt="ESPHome" width="40" height="40"/></a>
 <a href="https://esphome.io" target="_blank" rel="noreferrer"><img src="https://esphome.io/_images/logo.svg" alt="ESPHome" width="40" height="40"/></a>
 <a href="https://fresh.deno.dev" target="_blank" rel="noreferrer"><img src="https://fresh.deno.dev/logo.svg" alt="Fresh" width="40" height="40"/></a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  
@@ -56,6 +57,7 @@ I like to situate myself at the intersection of geometry, power, and data. I fin
 <a href="https://www.home-assistant.io" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373667/homeassistant.svg" alt="homeassistant" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> 
+<a href="https://kicad.org" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" alt="kicad" width="40" height="40"/> </a> 
 <a href="https://klipper3d.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Klipper3d/klipper/master/docs/img/klipper.svg" alt="klipper" width="40" height="40"/> </a> 
 <a href="https://lightburnsoftware.com" target="_blank" rel="noreferrer"> <img src="https://lightburnsoftware.com/cdn/shop/files/lightburn-square.png?v=1613158451&width=40" alt="lightburn" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
