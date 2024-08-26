@@ -26,7 +26,7 @@ I like to situate myself at the intersection of geometry, power, and data. I fin
 - **Proceduralism**
 - **ZMK**
 
- 📫 Reach me [**by email**](willpuckett@gmail.com)
+ 📫 Reach me [**by email**](mailto:willpuckett@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -72,6 +72,7 @@ I like to situate myself at the intersection of geometry, power, and data. I fin
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://www.shapr3d.com" target="_blank" rel="noreferrer"> <img src="https://yt3.googleusercontent.com/nwwMDbhHriPt50zf7yDtpQKF7p2qgzhIg-j-FIBsvlN0WjWBFyacqpJLrB-6cVF0Jf-9lbAbpeQ=s160-c-k-c0x00ffffff-no-rj" alt="shapr3d" width="40" height="40"/> </a> 
+<a href="https://www.simplify3d.com" target="_blank" rel="noreferrer"> <img src="https://fbi.cults3d.com/uploaders/15639626/illustration-file/95de7c4a-05ba-4f4f-9495-418ebc9be8a3/logiciel-simplify3d.jpg" alt="simplify3d" width="40" height="40"/> </a> 
 <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer"> <img src="https://wiki.stmicroelectronics.cn/stm32mcu/nsfr_img_auth.php/4/4e/STM32.png" alt="stm32" width="40" height="40"/> </a> 
 <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
