@@ -5,8 +5,7 @@
 
 I like to situate myself at the intersection of geometry, power, and data. I find the most interesting problems are those that require a deep understanding of multiple disciplines, and I enjoy having to reconcile mechanical, electrical, and thermal concerns. I also have a strong taste for TypeScriptally goodness.
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=willpuckett" alt="willpuckett" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=willpuckett&theme=discord&no-bg=true&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
 
  🔭 I’m currently working on 
  - Dynamically generated **3D printed ceramics** with [Blender](https://www.blender.org/) and [Klipper](https://klipper3d.org/)
@@ -28,7 +27,8 @@ I like to situate myself at the intersection of geometry, power, and data. I fin
 
  📫 Reach me [**by email**](mailto:willpuckett@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
+
 <p align="left"> 
 <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40"/> </a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
@@ -83,7 +83,6 @@ I like to situate myself at the intersection of geometry, power, and data. I fin
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p>
-
 
 ### Support
 
