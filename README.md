@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Will</h1>
-<h3 align="center">🛹 🧘🏻‍♂️ 🥡 ½ 🍩 ⛺️</h3>
+<h3 align="center">🛹 🧘🏻‍♂️ 🥡 🍩 ⛺️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=willpuckett&label=Profile%20views&color=0e75b6&style=flat" alt="willpuckett" /> </p>
-
-I like to situate myself at the intersection of geometry, power, and data. I find the most interesting problems are those that require a deep understanding of multiple disciplines, and I enjoy having to reconcile mechanical, electrical, and thermal concerns. I also have a strong taste for TypeScriptally goodness.
+> TypeScript, Proceduralism, 32-bit MCUs
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=willpuckett&theme=discord&no-bg=true&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
 
  🔭 I’m currently working on 
- - Dynamically generated **3D printed ceramics** with [Blender](https://www.blender.org/) and [Klipper](https://klipper3d.org/)
+ - A **Ferris Half-Swept derivative** called [Swoon](https://github.com/willpuckett/Swoon) featuring [Seeed Xiao nRF52840](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html)
  - Better selection of sense resistors for stepper drivers including [Pepper_Stepper](https://github.com/willpuckett/pepper_stepper), a **controller for 28BYJ-48 for ESPHome** and Tasmota, and a **forth coming toolhead board** for Δ printers
- - A remotely assembled **Ferris Half-Swept derivative** called [Swoon](https://github.com/willpuckett/Swoon) featuring [Seeed Xiao nRF52840](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html)
+ - Dynamically generated **3D printed ceramics** with [Blender](https://www.blender.org/) and [Klipper](https://klipper3d.org/)
 
  🌱 I’m currently learning 
+ - Using CI/CD systems to output **pcb variants**
+ - **Automated cases** with [build123d](https://github.com/gumyr/build123d)
+ - Exploring [hono's](https://hono.dev) **back-to-front type safety**
  - **PCB layout/PCBA**
  - **DFx**
  - Always more **Geometry Nodes**
@@ -37,8 +38,8 @@ I like to situate myself at the intersection of geometry, power, and data. I fin
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://brew.sh" target="_blank" rel="noreferrer"> <img src="https://brew.sh/assets/img/homebrew.svg" alt="homebrew" width="40" height="40"/> </a> 
 <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> 
+<a href="https://github.com/gumyr/build123d" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gumyr/build123d/dev/docs/assets/build123d_logo/logo.svg" alt="build123d" width="40" height="40"/> </a> 
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -55,6 +56,7 @@ I like to situate myself at the intersection of geometry, power, and data. I fin
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.home-assistant.io" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373667/homeassistant.svg" alt="homeassistant" width="40" height="40"/> </a> 
+<a href="https://hono.dev" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/H/hono-logo-85A5D1206D-seeklogo.com.png" alt="hono" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> 
 <a href="https://kicad.org" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" alt="kicad" width="40" height="40"/> </a> 
