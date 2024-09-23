@@ -1,30 +1,25 @@
 <h3 align="center">🛹 🧘🏻‍♂️ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 🥡 ⛺️</h3>
 
-## 🔭 
+### 🔭 
 
-- A **Ferris Half-Swept derivative** called
-  [Swoon](https://github.com/willpuckett/Swoon) featuring
-  [Seeed Xiao nRF52840](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html)
-- Embracing CI/CD 🤗
-- **Procedural ceramics** with [Blender](https://www.blender.org/) and
-  [Klipper](https://klipper3d.org/)
-- Selecting sense resistors for *tiny* stepper drivers including
-  [Pepper_Stepper](https://github.com/willpuckett/pepper_stepper), a
-  **controller for 28BYJ-48 for ESPHome** and Tasmota
+- Embracing CI/CD 🤗 with a **Ferris Half-Swept derivative** called
+  [Swoon](https://github.com/willpuckett/Swoon)
+- A series of **procedurally generated [lamps](https://www.etsy.com/shop/octule/?etsrc=sdt&section_id=50239867)** 
+- [Pepper_Stepper](https://github.com/willpuckett/pepper_stepper), a
+  **controller for 28BYJ-48** for ESPHome and Tasmota 
 
-## 🌱 
+### 🌱 
 
-- **Procedural Geometry** with [build123d](https://github.com/gumyr/build123d)
-- Exploring [hono's](https://hono.dev) **back-to-front type safety**
-- **PCB layout/PCBA**
-- **DFx**
+- Exploring [hono's](https://hono.dev) tRPC-style back-to-front type safety
+- **Pipelining** with [build123d](https://github.com/gumyr/build123d)
+- **PCBA** & **DFx**
 - Always more **Geometry Nodes**
 
 > [!NOTE]
 > 📝 I sporadically write articles on [my blog](https://smote.io), mainly so I
 > remember how I install things.
 
-## 💬 
+### 💬 
 
 - **Deno**/**Fresh**/**Deno KV**
 - **Klipper**
@@ -33,7 +28,7 @@
 
 📫 Reach me [**by email**](mailto:willpuckett@gmail.com)
 
-## 🧰
+### 🧰
 
 <p align="left">
 <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40"/> </a>
@@ -94,7 +89,7 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
 
-### Support
+### Obligatory ☕️ Link
 
 <a href="https://www.buymeacoffee.com/willpuckett">
 <img src="https://buymeacoffee.js.org/assets/img/favicon.svg" height="25" width="25" alt="willpuckett" /></a>
