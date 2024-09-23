@@ -1,31 +1,30 @@
-<h3 align="center">🛹 🧘🏻‍♂️ 🥡 🚴🏻‍♂️ ⛺️</h3>
+<h3 align="center">🛹 🧘🏻‍♂️ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 🥡 ⛺️</h3>
 
-#### TypeScript, Proceduralism, 32-bit MCUs
-
-## 🔭 I’m currently working on
+## 🔭 
 
 - A **Ferris Half-Swept derivative** called
   [Swoon](https://github.com/willpuckett/Swoon) featuring
   [Seeed Xiao nRF52840](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html)
-- Better selection of sense resistors for stepper drivers including
-  [Pepper_Stepper](https://github.com/willpuckett/pepper_stepper), a
-  **controller for 28BYJ-48 for ESPHome** and Tasmota
+- Embracing CI/CD 🤗
 - **Procedural ceramics** with [Blender](https://www.blender.org/) and
   [Klipper](https://klipper3d.org/)
+- Selecting sense resistors for *tiny* stepper drivers including
+  [Pepper_Stepper](https://github.com/willpuckett/pepper_stepper), a
+  **controller for 28BYJ-48 for ESPHome** and Tasmota
 
-## 🌱 I’m currently learning
+## 🌱 
 
-- Using CI/CD systems to output **pcb variants**
 - **Procedural Geometry** with [build123d](https://github.com/gumyr/build123d)
 - Exploring [hono's](https://hono.dev) **back-to-front type safety**
 - **PCB layout/PCBA**
 - **DFx**
 - Always more **Geometry Nodes**
 
-📝 I sporadically write articles on [my blog](https://smote.io), mainly so I
-remember how I install things.
+> [!NOTE]
+> 📝 I sporadically write articles on [my blog](https://smote.io), mainly so I
+> remember how I install things.
 
-## 💬 I enjoy talking about
+## 💬 
 
 - **Deno**/**Fresh**/**Deno KV**
 - **Klipper**
@@ -34,7 +33,7 @@ remember how I install things.
 
 📫 Reach me [**by email**](mailto:willpuckett@gmail.com)
 
-### Languages and Tools:
+## 🧰
 
 <p align="left">
 <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40"/> </a>
